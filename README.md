@@ -9,6 +9,7 @@ The program looks like this (The program supports English language):
 <img src="images/program.png" title="Program" alt="Program view">
 
 Normal: Outputs information about a random tarot card.
+
 50/50 value: Displays random tarot card information depending on the card position.
 
 ### Установка
@@ -30,6 +31,7 @@ Normal: Outputs information about a random tarot card.
 <img src="images/program.png" title="Программа" alt="Вид программы">
 
 Обычное: Выводит информации о рандомной карте таро.
+
 50/50 значение: Выводит информацию о рандомной карте таро взависимости от положения карты.
 
 ### Установка
