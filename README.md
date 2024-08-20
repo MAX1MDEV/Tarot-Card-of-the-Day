@@ -17,7 +17,9 @@ Normal: Outputs information about a random tarot card.
 2. Run the installer or unzip the archive to a convenient location.
 3. Run the Tarot Card of the day .Ink/.exe file.
 
-## I'll post the source code at 5 stars.
+## I'll post the source code at 3 stars.
+
+###Note: If you have suggestions for updating the program create Feature request.
 
 ***
 
@@ -40,4 +42,6 @@ Normal: Outputs information about a random tarot card.
 3. Запустите файл Tarot Card of the day .Ink/.exe.
 
 
-## Исходный код выложу на 5 звезд.
+## Исходный код выложу на 3 звезды.
+
+###Note: Если у вас есть предложения для обновления программы создайте Feature request.
