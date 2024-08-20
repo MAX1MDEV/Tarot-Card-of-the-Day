@@ -19,7 +19,7 @@ Normal: Outputs information about a random tarot card.
 
 ## I'll post the source code at 3 stars.
 
-###Note: If you have suggestions for updating the program create Feature request.
+### Note: If you have suggestions for updating the program create Feature request.
 
 ***
 
@@ -44,4 +44,4 @@ Normal: Outputs information about a random tarot card.
 
 ## Исходный код выложу на 3 звезды.
 
-###Note: Если у вас есть предложения для обновления программы создайте Feature request.
+### Note: Если у вас есть предложения для обновления программы создайте Feature request.
